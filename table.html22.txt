@@ -1,0 +1,33 @@
+
+
+Result Size: 668 x 466
+?
+?
+<!DOCTYPE html>
+<html>
+<head>
+<title,tr,th,td{
+border: 2xp soild red;
+border-collapse; collapse;
+width: 160px;
+height: 20xp;
+}
+</style>
+</head>
+<body>
+<table>
+<tr>
+    <th>Name:</th>
+    <td colspan="2">telephone</th>
+    </tr>
+    <tr>
+        <td>billgates</td>
+        <td>555777854</td>
+        <td>555777854</td>
+        </tr>
+        </table>
+        </body>
+        </html>
+?
+?
+?
